@@ -1,5 +1,10 @@
-```
-chat-app-booster-app.httpURL = https://uzdlu52nx4.execute-api.eu-west-1.amazonaws.com/production/
-chat-app-booster-app.websocketURL = wss://nvrezrtpz3.execute-api.eu-west-1.amazonaws.com/production/
-chat-app-booster-app.chatappboosterapprestapiEndpoint3B15F07F = https://uzdlu52nx4.execute-api.eu-west-1.amazonaws.com/production/
-```
+# Chat App Booster
+
+> ⚠️ This app cannot be deployed right, working on it!
+
+## Usage
+
+1. Setup AWS credentials
+2. Install Booster with `npm i -g @boostercloud/cli`
+3. Deploy backend with `boost deploy -e production`
+4. Run frontend with `cd frontend && npm start`
